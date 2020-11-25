@@ -1,5 +1,5 @@
 # osu-api-reference
-a small reference application to view one's osu! stats using osu!api v1
+a small reference application to view one's osu! stats using [osu!api v1](https://github.com/ppy/osu-api/wiki)
 
 # Run it
  - Double click on the executable, enter your username

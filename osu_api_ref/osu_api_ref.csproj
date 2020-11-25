@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>osu_api_ref</RootNamespace>
+    <StartupObject>osu_api_ref.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Page Include="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="main.cs" />
+  </ItemGroup>
+
+</Project>
